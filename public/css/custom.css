@@ -1,0 +1,14 @@
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.avatar {
+    border-radius: 50% !important;
+}
+.pmd-navbar.navbar .btn.pmd-btn-fab {
+    padding: 0;
+    margin: 13px 3px 11px;
+}
+.btn-user .media-left i {
+    padding: 8px 3px;
+}
