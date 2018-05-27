@@ -127,6 +127,7 @@ CREATE TABLE `place_views` (
 
 CREATE TABLE `product` (
   `id` int(11) NOT NULL,
+  'name' VARCHAR(30) NOT NULL,
   `avaliable` int(11) NOT NULL,
   `place_id` int(11) NOT NULL,
   `rank` int(11) NOT NULL
