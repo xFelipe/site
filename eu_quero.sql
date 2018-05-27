@@ -269,3 +269,158 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+--
+-- INSERTS PARA TESTE
+--
+insert into product values(
+    default, "Produto 0", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 1", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 2", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 3", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 4", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 5", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 6", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 7", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 8", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 9", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 10", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 11", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 12", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 13", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 14", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 15", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 16", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 17", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 18", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 19", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 20", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 21", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 22", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 23", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 24", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 25", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 26", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 27", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 28", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 29", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 30", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 31", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 32", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 33", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 34", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 35", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 36", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 37", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 38", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 39", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 40", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 41", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 42", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 43", 1, 1, 3
+);
+insert into product values(
+    default, "Produto 44", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 45", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 46", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 47", 1, 1, 2
+);
+insert into product values(
+    default, "Produto 48", 1, 1, 1
+);
+insert into product values(
+    default, "Produto 49", 1, 1, 3
+);
